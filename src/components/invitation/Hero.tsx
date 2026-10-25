@@ -16,7 +16,7 @@ export function Hero() {
           alt={heroImage.alt}
           fill
           sizes="176px"
-          className="object-cover"
+          className="object-cover object-[50%_18%]"
           priority
         />
       </div>
